@@ -1,0 +1,10 @@
+{
+  "name": "bunfx",
+  "version": "0.0.1",
+  "description": "Bakery-style bun animations for MakeCode Arcade",
+  "dependencies": {},
+  "files": [
+    "main.ts"
+  ],
+  "public": true
+}
